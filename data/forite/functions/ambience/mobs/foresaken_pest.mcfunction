@@ -1,0 +1,1 @@
+particle minecraft:large_smoke ~ ~ ~ 0 0 0 .01 1 normal
