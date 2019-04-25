@@ -1,1 +1,0 @@
-summon armor_stand ~ ~ ~ {Invulnerable:1b,ShowArms:0b,Invisible:1b,NoBasePlate:1b,HandItems:[{id:"minecraft:bow",Count:1b,tag:{Unbreakable:0b,Enchantments:[{id:"minecraft:unbreaking",lvl:1}]}},{}],ArmorItems:[{id:"minecraft:iron_boots",Count:1b},{id:"minecraft:iron_leggings",Count:1b},{id:"minecraft:iron_chestplate",Count:1b},{id:"minecraft:iron_helmet",Count:1b}]}

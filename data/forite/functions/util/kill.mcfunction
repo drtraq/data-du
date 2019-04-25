@@ -1,1 +1,0 @@
-kill @e[tag=!d_k]

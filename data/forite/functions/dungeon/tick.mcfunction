@@ -1,1 +1,0 @@
-execute as @e[tag=dungeon_m] run execute at @s run function forite:dungeon/find
