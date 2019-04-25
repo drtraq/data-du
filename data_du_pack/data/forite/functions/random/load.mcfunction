@@ -1,6 +1,7 @@
-# Uses Timer
-
+# FUNCTION forite:random/load
 # Kill all the other armor stands
+# @s - the console
+
 kill @e[type=minecraft:armor_stand,tag=rng]
 
 # Make 10 armor stands

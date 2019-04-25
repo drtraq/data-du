@@ -1,5 +1,8 @@
-# function called every tick, checks everything 
-function forite:raycast/tick
+# FUNCTION forite:tick
+# executes every tick
+# @s - the console
+ 
+function forite:raycast_demo/tick
 function forite:timer/tick
 function forite:random/tick
 function forite:events/check_taking_damage

@@ -1,3 +1,7 @@
+# FUNCTION forite:timer/tick
+# decrements timers, and starts timers that need to be started
+# @s - the console
+
 # Remove s_t tags from previous tick
 tag @e[tag=s_t] remove s_t
 
