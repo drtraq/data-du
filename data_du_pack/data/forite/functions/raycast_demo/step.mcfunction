@@ -9,4 +9,4 @@ execute if entity @s[tag=cursor] run setblock ^ ^ ^-1 minecraft:red_concrete
 
 execute if entity @s[tag=cursor] run particle cloud
 
-execute if entity @s[tag=!cursor,scores={raycast_count=..100}] positioned ^ ^ ^1 run function forite:raycast_demo/step
+execute if entity @s[tag=!cursor,scores={raycast_count=..7}] positioned ^ ^ ^1 run function forite:raycast_demo/step
