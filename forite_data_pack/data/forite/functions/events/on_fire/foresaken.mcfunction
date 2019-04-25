@@ -1,0 +1,1 @@
+function forite:events/taking_damage/foresaken
