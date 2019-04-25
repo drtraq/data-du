@@ -2,6 +2,7 @@
 # this function is called when the data pack is loaded
 # @s - the console
 
+function forite:raycast_demo/load
 function forite:random/load
 function forite:timer/load
 function forite:events/load
