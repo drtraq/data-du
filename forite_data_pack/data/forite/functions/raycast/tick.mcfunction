@@ -1,2 +1,0 @@
-function forite:raycast/test
-
